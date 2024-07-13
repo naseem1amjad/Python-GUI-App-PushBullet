@@ -2,7 +2,6 @@
 Python GUI (Desktop) App using Tkinter and PySimpleGUI integrating with PushBullet to send messages
 <br><br>
 ## Requirements:
-<br><br>
 - Create a script<br>
 - Link the pushbullet site API<br>
 - It should send messages automatically<br>
